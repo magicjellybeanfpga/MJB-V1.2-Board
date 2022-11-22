@@ -1,6 +1,6 @@
 # MJB V1.2 Board
 
-<img src="pic/MJB V1.2 Pic.jpg" align="right" width= "600">
+<img src="pic/MJB V1.2 Pic.jpg" align="right" width= "500">
 
 Our new Magic Jelly Bean GOai board Featuring the GW2AR-18-QN88P FPGA
 
