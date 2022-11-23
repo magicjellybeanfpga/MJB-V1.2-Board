@@ -22,7 +22,7 @@ PCB
 
 ## MJB Camera 
 
-<img src="pic/MJB-Cam.jpg" align="right" width= "450">
+<img src="pic/MJB-Cam.jpg" align="right" width= "300">
 
 The MJB Camera Board will allow you to use a OV2640 Camera Module with the MJB Board. The OV2640 is a SOC sensor that has an on-chip ISP which can do auto-exposure, auto-white balance, all in a small package. Ideal for creating great images at a miniature cost.
 
@@ -32,7 +32,7 @@ The MJB Camera Board will allow you to use a OV2640 Camera Module with the MJB B
 
 ## MJB Microphone
 
-<img src="pic/MJB-Mic.jpg" align="right" width= "450">
+<img src="pic/MJB-Mic.jpg" align="right" width= "300">
 
 This tiny, low power microphone comes with an I2S digital output which allows direct interconnect with our MJB board. Ideal for smaller devices where size and power consumption are a constraint.
 
@@ -42,7 +42,7 @@ This tiny, low power microphone comes with an I2S digital output which allows di
 
 ## MJB Accelerometer
 
-<img src="pic/MJB-Acce.jpg" align="right" width= "450">
+<img src="pic/MJB-Acce.jpg" align="right" width= "300">
 
 The LIS2DH12 accelerometer comes with 8 LEDs and is fully compatible with your MJB board. Accelerometers are devices that measure the change in velocity and sense vibrations within systems. A common use for accelerometers for handheld devices would be rotating a display once sensing the physical change of orientation. The LIS2DH12 accelerometer comes with 8 LEDs
 
