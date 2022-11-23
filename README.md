@@ -45,6 +45,11 @@ This tiny, low power microphone comes with an I2S digital output which allows di
 
 The LIS2DH12 accelerometer comes with 8 LEDs and is fully compatible with your MJB board. Accelerometers are devices that measure the change in velocity and sense vibrations within systems. A common use for accelerometers for handheld devices would be rotating a display once sensing the physical change of orientation. The LIS2DH12 accelerometer comes with 8 LEDs
 
+<br>
+<br>
+<br>
+<br>
+
 */pic - high res and thumbnail pictures of the minieye and accessory boards and Demo videos
 
 */doc - user guide
