@@ -9,7 +9,6 @@ Our new Magic Jelly Bean GOai board Featuring the GW2AR-18-QN88P FPGA
 * 10x10mm QFN88 FPGA Package
 
 PCB
-* OV2640 CAMERA
 * HDMI RX and HDMI TX
 * Internal 2x32Mbit PSRAM
 * On-Board 64Mbit SPI-FLASH
