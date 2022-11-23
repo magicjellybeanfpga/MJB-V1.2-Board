@@ -26,19 +26,18 @@ PCB
 
 The MJB Camera Board will allow you to use a OV2640 Camera Module with the MJB Board. The OV2640 is a SOC sensor that has an on-chip ISP which can do auto-exposure, auto-white balance, all in a small package. Ideal for creating great images at a miniature cost.
 
-
-
-
+<br>
+<br>
+<br>
 
 ## MJB Microphone
 
 <img src="pic/MJB-Mic.jpg" align="right" width= "300">
 
 This tiny, low power microphone comes with an I2S digital output which allows direct interconnect with our MJB board. Ideal for smaller devices where size and power consumption are a constraint.
-
-
-
-
+<br>
+<br>
+<br>
 
 ## MJB Accelerometer
 
